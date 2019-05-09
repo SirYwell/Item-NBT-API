@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.tr7zw</groupId>
+  <artifactId>item-nbt-api</artifactId>
+  <versioning>
+    <versions>
+      <version>1.8.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190509222018</lastUpdated>
+  </versioning>
+</metadata>
